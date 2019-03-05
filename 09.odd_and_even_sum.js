@@ -14,7 +14,7 @@ function oddAndEvenSum (number){
     }
  console.log(`Odd sum = ${oddSum}, Even sum = ${evenSum}`);
 
- 
+ console.log(arrayNumbers);
 }
 
 oddAndEvenSum(3495892137259234)
