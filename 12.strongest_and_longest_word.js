@@ -1,5 +1,5 @@
 function shortestAndLongestWord(string) {
-    let arr = string.split(/[,? ]/);
+    let arr = string.split(/[ ]/);
     let longestWord =arr[0];
     let shortestWord = arr[0];
 
